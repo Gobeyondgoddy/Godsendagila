@@ -1,8 +1,8 @@
 # Godsendagila
-<img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif">
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp">
 <h1 align="center">Hi 👋, I'm Agila Godsend</h1>
 <h3 align="center">A passionate Cybersecurity & Web solutions expert from kenya</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobeyondgoddy&label=Profile%20views&color=0e75b6&style=flat" alt="gobeyondgoddy" /> </p>
 
