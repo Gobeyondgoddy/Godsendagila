@@ -23,7 +23,7 @@
 <a href="https://twitter.com/macknight173683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macknight173683" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/godsend lumanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="godsend lumanya" height="30" width="40" /></a>
 <a href="https://fb.com/godsend lumanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="godsend lumanya" height="30" width="40" /></a>
-<a href="https://instagram.com/shat_ah5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shat_ah5" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nifty_gee_lux?igsh=YnN5bnVzdjBucWdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shat_ah5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
