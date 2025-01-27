@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/macknight173683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macknight173683" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/godsend-agila-762908292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="https://www.linkedin.com/in/godsend-lumanya-762908292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="godsend lumanya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/godsend-agila-762908292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macknight173683" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/godsend-agila-762908292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="godsend lumanya" height="30" width="40" /></a>
 <a href="https://fb.com/godsend lumanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="godsend lumanya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nifty_gee_lux?igsh=YnN5bnVzdjBucWdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shat_ah5" height="30" width="40" /></a>
 </p>
